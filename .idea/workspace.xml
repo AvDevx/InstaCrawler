@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24987a74-1fc5-43fb-b1f3-8715160d8914" name="Default Changelist" comment="" />
+    <list default="true" id="24987a74-1fc5-43fb-b1f3-8715160d8914" name="Default Changelist" comment="almost done">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +15,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/instaCrawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="965">
+            <state relative-caret-position="1155">
               <caret line="55" column="36" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -43,8 +45,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="131" />
-    <option name="y" value="-16" />
+    <option name="x" value="40" />
+    <option name="y" value="-27" />
     <option name="width" value="1480" />
     <option name="height" value="1000" />
   </component>
@@ -73,6 +75,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -133,7 +136,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.6475237" visible="true" weight="0.7108307" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.6475237" visible="true" weight="0.31335437" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.3524763" side_tool="true" weight="0.30389065" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32912722" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -144,7 +147,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
+        <state relative-caret-position="504">
           <caret line="36" selection-start-line="36" selection-end-line="37" selection-end-column="14" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
@@ -154,7 +157,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/instaCrawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="965">
+        <state relative-caret-position="1155">
           <caret line="55" column="36" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
